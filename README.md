@@ -1,4 +1,8 @@
-### Hi there 👋
+# yo whats up
+My names V3L0C1T13S, but you can just call me V3L0.
+# What I'm doing
+I'm currently working on a Discord client modification, Rikka
+# woo i have a readme.md am i cool yet
 
 <!--
 **V3L0C1T13S/V3L0C1T13S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
