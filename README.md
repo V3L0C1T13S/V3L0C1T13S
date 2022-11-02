@@ -1,7 +1,7 @@
 # yo whats up
 My names V3L0C1T13S, but you can just call me V3L0.
 # What I'm doing
-I'm currently working on a library, Reject, that allows Discord.js bots to run on Revolt.js
+I'm currently working on a Discord->Revolt compatibility layer called Reflectcord.
 # woo i have a readme.md am i cool yet
 
 <!--
