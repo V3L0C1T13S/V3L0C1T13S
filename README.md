@@ -1,5 +1,5 @@
 # Hi there!
-My names V3L0C1T13S, but you can just call me V3L0. I usually write programs that center around either reverse engineering, utility, or add onto an existing program.
+My names V3L0C1T13S, but you can just call me Velo. I usually write programs that center around either reverse engineering, utility, or add onto an existing program.
 
 Some projects I've worked on before include:
 
